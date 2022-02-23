@@ -1,0 +1,18 @@
+shapes = {
+    "Triangle":{"sides":3,
+                "color": "skyblue"},
+    "Square":{"sides":4,
+                "color": "brown"},
+    "Pentagon": {"sides": 5,
+                 "color": "green"},
+    "Hexagon": {"sides": 6,
+                 "color": "orange"},
+    "Heptagon": {"sides": 7,
+                 "color": "blue"},
+    "Octagon": {"sides": 8,
+                 "color": "silver"},
+    "Nonagon": {"sides": 9,
+                "color": "dark turquoise"},
+    "Decagon": {"sides": 10,
+                "color": "goldenrod"},
+}
